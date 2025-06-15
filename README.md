@@ -1,0 +1,2 @@
+# python025
+python025基于Python的高校实验室管理系统
